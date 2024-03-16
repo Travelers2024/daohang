@@ -36,12 +36,12 @@
 		"name": "帮助手册",
 		"href": "https://www.appcgn.com/",
 		"desc": "客户端无法使用，且联系不上客服的话点这里",
-		"logo": "static/icons/appcgn.com.ico"
+		"logo": "https://cdnjson.com/images/2024/03/16/9b2c5fddef8083e528cf2533fdca79f5ed6b868e15cac99b.th.png"
 	}, {
-		"name": "看雪学院",
+		"name": "帮助手册",
 		"href": "https://www.kanxue.com/",
-		"desc": "加密与解密，渗透与反渗透",
-		"logo": "static/icons/kanxue.com.ico"
+		"desc": "客户端无法使用，且联系不上客服的话点这里",
+		"logo": "https://cdnjson.com/images/2024/03/16/9b2c5fddef8083e528cf2533fdca79f5ed6b868e15cac99b.th.png"
 	}, {
 		"name": "少数派",
 		"href": "https://sspai.com/",
