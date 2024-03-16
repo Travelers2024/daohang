@@ -6,7 +6,7 @@
 		"name": "鼠鼠云官网",
 		"href": "https://mouse.23334567.xyz",
 		"desc": "请先下载客户端并成功使用，才能打开官网",
-		"logo": "static/icons/52pojie.cn.ico"
+		"logo": "https://cdnjson.com/images/2024/03/13/407cf8c54ee6e9a8952a2171d89aee905048e347880ff5c3.th.png"
 	}, {
 		"name": "安卓客户端",
 		"href": "https://url08.ctfile.com/f/53849008-1036789076-c4a88b?p=4860",
@@ -26,16 +26,16 @@
 		"name": "联系客服",
 		"href": "https://tawk.to/chat/65f5a25e9317c54371289174/1hp3o4gs2",
 		"desc": "部分地区需成功使用客户端后，才能打开客服站",
-		"logo": "static/icons/mpyit.com.ico"
+		"logo": "https://cdnjson.com/images/2024/03/13/407cf8c54ee6e9a8952a2171d89aee905048e347880ff5c3.th.png"
 	}, {
-		"name": "注册不了的话点这里",
-		"href": "http://www.carrotchou.blog/",
-		"desc": "又一个软件分享'领跑者'",
-		"logo": "static/icons/appcgn.com.ico"
+		"name": "联系客服",
+		"href": "https://tawk.to/chat/65f5a25e9317c54371289174/1hp3o4gs2",
+		"desc": "无法注册，或者不会使用，都可以联系客服",
+		"logo": "https://cdnjson.com/images/2024/03/13/407cf8c54ee6e9a8952a2171d89aee905048e347880ff5c3.th.png"
 	}, {
-		"name": "软件缘",
+		"name": "帮助手册",
 		"href": "https://www.appcgn.com/",
-		"desc": "绿化、汉化软件",
+		"desc": "客户端无法使用，且联系不上客服的话点这里",
 		"logo": "static/icons/appcgn.com.ico"
 	}, {
 		"name": "看雪学院",
