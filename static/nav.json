@@ -408,14 +408,5 @@
 		"desc": "可商用图片站-支持中文",
 		"logo": "static/icons/pexels.com.ico"
 	}]
-}, {
-	"_id": "blog",
-	"classify": "优秀博客",
-	"icon": "ti-medall-alt",
-	"sites": [{
-		"name": "Rat's Blog ",
-		"href": "https://www.moerats.com/",
-		"desc": "KMS、VPS、Aria2相关主机与建站技术分享",
-		"logo": "https://www.moerats.com/usr/picture/favicon.ico"
-	}]
+
 }]
