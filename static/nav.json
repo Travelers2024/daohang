@@ -23,29 +23,24 @@
 		"desc": "密码4860",
 		"logo": "static/icons/dayanzai.me.ico"
 	}, {
-		"name": "联系客服",
+		"name": "客服留言",
 		"href": "https://tawk.to/chat/65f5a25e9317c54371289174/1hp3o4gs2",
 		"desc": "推荐去右下角联系客服，这里主要是留言",
 		"logo": "https://cdnjson.com/images/2024/03/13/407cf8c54ee6e9a8952a2171d89aee905048e347880ff5c3.th.png"
 	}, {
 		"name": "帮助手册",
 		"href": "https://www.evernote.com/shard/s351/sh/cc6bc617-2ffc-3bbc-fb48-f4fb4cae691c/IUR54QqJSZv6fR6afgTRsjpyMGOAKyWptFJ6v32jZAOhqm9NiNxPbRIgFQ",
-		"desc": "客户端无法使用，且联系不上客服的话点这里",
-		"logo": "https://cdnjson.com/images/2024/03/16/9b2c5fddef8083e528cf2533fdca79f5ed6b868e15cac99b.th.png"
-	}, {
-		"name": "帮助手册",
-		"href": "https://www.evernote.com/shard/s351/sh/cc6bc617-2ffc-3bbc-fb48-f4fb4cae691c/IUR54QqJSZv6fR6afgTRsjpyMGOAKyWptFJ6v32jZAOhqm9NiNxPbRIgFQ",
-		"desc": "客户端无法使用，且联系不上客服的话点这里(重复一下防止看不到)",
+		"desc": "客户端无法使用，且联系不上客服点这里",
 		"logo": "https://cdnjson.com/images/2024/03/16/9b2c5fddef8083e528cf2533fdca79f5ed6b868e15cac99b.th.png"
 	}, {
 		"name": "资源推荐",
 		"href": "https://www.evernote.com/shard/s351/sh/b14b3ef9-4d3b-d141-927e-ec358419d626/sg7dKQJC8KjkaV3NmbdbXrVEJWqNOODVQW3qqoMwvqTfYs6W2qn-1ZoN5Q",
-		"desc": "一些资源分享，感兴趣的可以看看",
+		"desc": "一些资源分享，感兴趣可以看看",
 		"logo": "static/icons/sspai.com.ico"
 	}, {
 		"name": "分界线",
 		"href": "https://www.baidu.com",
-		"desc": "鼠鼠云的资源到此为止，下面的资源与鼠鼠云无关，感兴趣可以看看",
+		"desc": "下面的资源与鼠鼠云无关，感兴趣可以看看",
 		"logo": ""
 	}, {
 		"name": "小众软件",
