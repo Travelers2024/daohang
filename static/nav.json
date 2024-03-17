@@ -1,6 +1,6 @@
 [{
 	"_id": "ruanjian",
-	"classify": "软件·社区",
+	"classify": "鼠鼠云",
 	"icon": "ti-download",
 	"sites": [{
 		"name": "鼠鼠云官网",
@@ -30,28 +30,28 @@
 	}, {
 		"name": "联系客服",
 		"href": "https://tawk.to/chat/65f5a25e9317c54371289174/1hp3o4gs2",
-		"desc": "无法注册，或者不会使用，都可以联系客服",
+		"desc": "无法注册，或者不会使用，都可以联系客服(重复一下防止看不到)",
 		"logo": "https://cdnjson.com/images/2024/03/13/407cf8c54ee6e9a8952a2171d89aee905048e347880ff5c3.th.png"
 	}, {
 		"name": "帮助手册",
-		"href": "https://www.appcgn.com/",
+		"href": "https://www.evernote.com/shard/s351/sh/cc6bc617-2ffc-3bbc-fb48-f4fb4cae691c/IUR54QqJSZv6fR6afgTRsjpyMGOAKyWptFJ6v32jZAOhqm9NiNxPbRIgFQ",
 		"desc": "客户端无法使用，且联系不上客服的话点这里",
 		"logo": "https://cdnjson.com/images/2024/03/16/9b2c5fddef8083e528cf2533fdca79f5ed6b868e15cac99b.th.png"
 	}, {
 		"name": "帮助手册",
-		"href": "https://www.kanxue.com/",
-		"desc": "客户端无法使用，且联系不上客服的话点这里",
+		"href": "https://www.evernote.com/shard/s351/sh/cc6bc617-2ffc-3bbc-fb48-f4fb4cae691c/IUR54QqJSZv6fR6afgTRsjpyMGOAKyWptFJ6v32jZAOhqm9NiNxPbRIgFQ",
+		"desc": "客户端无法使用，且联系不上客服的话点这里(重复一下防止看不到)",
 		"logo": "https://cdnjson.com/images/2024/03/16/9b2c5fddef8083e528cf2533fdca79f5ed6b868e15cac99b.th.png"
 	}, {
-		"name": "少数派",
-		"href": "https://sspai.com/",
-		"desc": "生产力工具推荐平台（含会员付费阅读制）",
+		"name": "资源推荐",
+		"href": "https://www.evernote.com/shard/s351/sh/b14b3ef9-4d3b-d141-927e-ec358419d626/sg7dKQJC8KjkaV3NmbdbXrVEJWqNOODVQW3qqoMwvqTfYs6W2qn-1ZoN5Q",
+		"desc": "一些资源分享，感兴趣的可以看看",
 		"logo": "static/icons/sspai.com.ico"
 	}, {
-		"name": "Zdfans",
-		"href": "https://www.zdfans.com/",
-		"desc": "转手之后变得很难看，但还能用",
-		"logo": "static/icons/zdfans.com.ico"
+		"name": "分界线",
+		"href": "https://www.baidu.com",
+		"desc": "鼠鼠云的资源到此为止，下面的资源与鼠鼠云无关，感兴趣的话可以看看",
+		"logo": ""
 	}, {
 		"name": "小众软件",
 		"href": "https://www.appinn.com/",
