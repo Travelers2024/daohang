@@ -40,28 +40,8 @@
 	}, {
 		"name": "分界线",
 		"href": "https://www.baidu.com",
-		"desc": "下面的资源与鼠鼠云无关，感兴趣可以看看",
+		"desc": "以下资源与鼠鼠云无关，感兴趣可以看看",
 		"logo": ""
-	}, {
-		"name": "小众软件",
-		"href": "https://www.appinn.com/",
-		"desc": "分享免费、小巧、实用、有趣、绿色的软件",
-		"logo": "static/icons/appinn.com.ico"
-	}, {
-		"name": "果核剥壳",
-		"href": "https://www.ghpym.com/",
-		"desc": "优秀资源推荐、评测，限免优惠资讯",
-		"logo": "static/icons/ghpym.com.ico"
-	}, {
-		"name": "异次元软件",
-		"href": "https://www.iplaysoft.com/",
-		"desc": "优秀资源推荐、评测，限免优惠资讯",
-		"logo": "static/icons/iplaysoft.com.ico"
-	}, {
-		"name": "photopea",
-		"href": "https://www.photopea.com/",
-		"desc": "在线ps，支持绝大多数功能。",
-		"logo": "static/icons/photopea.com.png"
 	}]
 }, {
 	"_id": "yunpan",
@@ -392,6 +372,11 @@
 		"href": "https://unsplash.con/",
 		"desc": "高清图片站",
 		"logo": "static/icons/unsplash.com.ico"
+	}, {
+		"name": "photopea",
+		"href": "https://www.photopea.com/",
+		"desc": "在线ps，支持绝大多数功能。",
+		"logo": "static/icons/photopea.com.png"
 	}, {
 		"name": "pexels",
 		"href": "https://www.pexels.com/zh-cn/",
