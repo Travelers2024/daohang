@@ -1,24 +1,24 @@
 [{
 	"_id": "ruanjian",
-	"classify": "鼠鼠云",
+	"classify": "鼠鼠加速",
 	"icon": "ti-download",
 	"sites": [{
 		"name": "鼠鼠云官网",
 		"href": "https://mouse.23334567.xyz",
-		"desc": "成功使用客户端后才能打开官网",
+		"desc": "成功使用加速器后才能打开官网",
 		"logo": "https://cdnjson.com/images/2024/03/13/407cf8c54ee6e9a8952a2171d89aee905048e347880ff5c3.th.png"
 	}, {
-		"name": "安卓客户端",
+		"name": "安卓端加速器",
 		"href": "https://url08.ctfile.com/f/53849008-1036789076-c4a88b?p=4860",
 		"desc": "密码4860",
 		"logo": "static/icons/dayanzai.me.ico"
 	}, {
-		"name": "windows客户端",
+		"name": "windows端加速器",
 		"href": "https://url08.ctfile.com/f/53849008-1032252650-631cdd?p=4860",
 		"desc": "密码4860",
 		"logo": "static/icons/dayanzai.me.ico"
 	}, {
-		"name": "mac客户端",
+		"name": "mac端加速器",
 		"href": "https://url08.ctfile.com/f/53849008-1032253496-fa17c2?p=4860",
 		"desc": "密码4860",
 		"logo": "static/icons/dayanzai.me.ico"
@@ -35,7 +35,7 @@
 	}, {
 		"name": "资源推荐",
 		"href": "https://www.evernote.com/shard/s351/sh/b14b3ef9-4d3b-d141-927e-ec358419d626/sg7dKQJC8KjkaV3NmbdbXrVEJWqNOODVQW3qqoMwvqTfYs6W2qn-1ZoN5Q",
-		"desc": "一些资源分享，感兴趣可以看看",
+		"desc": "哔咔，禁漫，tiktok等",
 		"logo": "static/icons/sspai.com.ico"
 	}, {
 		"name": "分界线",
