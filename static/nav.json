@@ -5,7 +5,7 @@
 	"sites": [{
 		"name": "官网",
 		"href": "https://mousecloud.2333005.xyz/#/login",
-		"desc": "必须使用Edge浏览器/火狐浏览器",
+		"desc": "必须使用Edge/火狐/夸克 浏览器",
 		"logo": "https://cdnjson.com/images/2024/03/13/407cf8c54ee6e9a8952a2171d89aee905048e347880ff5c3.th.png"
         }, {
 		"name": "说明",
